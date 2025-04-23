@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Anime Analysis 2024
-=======
-<<<<<<< HEAD
+
 # anime-analysis-2024
 
 # 📊 Anime Watch Trends Analysis (2024)
