@@ -1,1 +1,1 @@
-# Anime Watch Trends Analysis 2024
+# Anime Analysis 2024
